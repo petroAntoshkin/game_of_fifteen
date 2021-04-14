@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "838420018403",
+    "project_id": "game-of-fifteen-bf715",
+    "storage_bucket": "game-of-fifteen-bf715.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838420018403:android:f9d58d4ca17fa0c7db01d6",
+        "android_client_info": {
+          "package_name": "com.antsstudio.game_of_fifteen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838420018403-om1glse10d4evu3rjq250f1c09bmudec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4XFTi5C21pOZk9XlVgDVVo-xtcPe2M_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838420018403-om1glse10d4evu3rjq250f1c09bmudec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
